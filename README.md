@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leandro Soares
 - 👀 I’m interested in working with computer science
-- 🌱 I’m currently learning new programing languages
+- 🌱 I’m currently learning new technology
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email: leandro.soares.eneterio@gmail.com
 
